@@ -7,3 +7,5 @@ Repositório da Aula de terça
 -Estou na MAIN
 
 -Alterações da BRANCH ALterações
+
+-Alteraçoes da fix pra fazer o merge
